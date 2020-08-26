@@ -1,0 +1,15 @@
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.csprojAssemblyReference.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.csproj.CoreCompileInputs.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.AssemblyInfoInputs.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.AssemblyInfo.cs
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Dao.deps.json
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Dao.runtimeconfig.json
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Dao.runtimeconfig.dev.json
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Dao.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Dao.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.csproj.CopyComplete
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp3.1\Dao.genruntimeconfig.cache

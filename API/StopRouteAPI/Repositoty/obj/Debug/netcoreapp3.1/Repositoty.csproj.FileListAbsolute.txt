@@ -1,0 +1,17 @@
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.csprojAssemblyReference.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.csproj.CoreCompileInputs.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.AssemblyInfoInputs.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.AssemblyInfo.cs
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Repositoty.deps.json
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Repositoty.runtimeconfig.json
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Repositoty.runtimeconfig.dev.json
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Repositoty.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Repositoty.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Dao.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Dao.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.csproj.CopyComplete
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.dll
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.pdb
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Repositoty\obj\Debug\netcoreapp3.1\Repositoty.genruntimeconfig.cache

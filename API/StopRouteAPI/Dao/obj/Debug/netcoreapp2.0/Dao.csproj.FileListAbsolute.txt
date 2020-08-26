@@ -1,0 +1,4 @@
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp2.0\Dao.csprojAssemblyReference.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp2.0\Dao.csproj.CoreCompileInputs.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp2.0\Dao.AssemblyInfoInputs.cache
+C:\Dileep\Practice\GMVTest\API\StopRouteAPI\Dao\obj\Debug\netcoreapp2.0\Dao.AssemblyInfo.cs
